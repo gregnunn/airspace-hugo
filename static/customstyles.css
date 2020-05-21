@@ -1,0 +1,13 @@
+/* modifications to match gregnunnart brand */
+
+.navigation {
+  background-color: #000000;
+  padding: 5px 0;
+}
+.navigation .navbar .navbar-nav {
+  padding-top: 5px;
+}
+
+.navigation .navbar .navbar-nav>li>a:hover {
+  color: #faf8f8;
+}
