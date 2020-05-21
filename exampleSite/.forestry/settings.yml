@@ -37,7 +37,7 @@ sections:
   templates:
   - author
 - type: heading
-  label: Project
+  label: Portfolio
 - type: directory
   path: exampleSite/content/english/project
   label: Project (en)
